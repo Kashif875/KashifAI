@@ -1,0 +1,30 @@
+{
+    "screenName": "Login",
+    "data": [
+        {
+            "type": "Text",
+            "text": "Hello",
+            "style": {
+                "fontSize": 12,
+                "fontFamily": "inter_semi bold.otf",
+                "color": "#000000",
+                "textAlign": "center",
+                "marginTop": 30,
+                "fontWeight": "600"
+            }
+        },
+        {
+            "type": "View",
+            "style": {
+                "width": 145,
+                "height": 33,
+                "alignSelf": "center",
+                "backgroundColor": "transparent",
+                "borderRadius": 10,
+                "borderStartWidth": 1,
+                "borderTopWidth": 3,
+                "borderColor": "#75000000"
+            }
+        }
+    ]
+}
